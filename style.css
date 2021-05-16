@@ -1,0 +1,131 @@
+body{
+
+    background:linear-gradient(180deg, rgb(205 204 204) 0%, rgba(245,245,245,1) 9%, rgba(201,201,201,1) 49%, rgba(170,170,170,1) 100%);
+    font-family: 'Raleway', sans-serif;
+    color: rgb(10, 10, 10);
+    margin: 0;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.caixaprofile{
+    margin: 0 auto;
+    text-align: center;
+
+    
+}
+
+.rede-social{
+    width: 25px;
+}
+
+
+.profile{
+    padding: 1px;
+    width: 200px;
+    box-shadow: 0px 0px 15px rgb(185, 185, 185);
+    border-radius: 50%;
+    border: 3px solid rgb(235, 232, 232); 
+}
+
+
+h1{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    letter-spacing: -2px;
+}
+
+.h2{
+    font-style: italic;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: rgb(116 116 116);
+    font-weight: 80;
+    letter-spacing: -2px;
+}
+
+h2{
+    margin-bottom: 20px;
+    font-weight: 900;
+    font-style: unset;
+}
+
+h4{
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+p{
+    margin-top: 5px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+footer{
+    background: rgb(37, 37, 37);
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: rgb(240, 239, 239);
+    font-weight: 100;
+    text-align: center;
+    padding: 3px 0;
+    width: 100%;
+    position: relative;
+}
+
+.projetos{
+    margin: 0 auto;
+}
+
+.comentarios{    
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.projects{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.coment{
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    background-color: rgb(206, 206, 206);
+    border-radius: 10px 10px 30px 30px;
+    
+}
+
+.color{
+    width: 1000px;
+    text-align: center;
+    background-color: rgb(221, 221, 221);
+    border-radius: 10px 10px 30px 30px;
+}
+
+.clientes{
+    width: 80px;
+    border-radius: 50%;
+}
+
+.top{
+    margin-top: 150px;
+}
+
+.bottom{
+    margin-bottom: 200px;
+}
+
+.final{
+    margin: 0 auto;
+    text-align: center;
+    width: 800px;
+}
+
+
+
