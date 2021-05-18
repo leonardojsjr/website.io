@@ -67,14 +67,13 @@ p{
 }
 
 footer{
+    height: 25px;
     background: rgb(37, 37, 37);
-    margin: 0 auto;
     color: rgb(240, 239, 239);
-    font-weight: 100;
     text-align: center;
-    padding: 3px 0;
-    width: 100%;
-    position: relative;
+    width: auto;
+    margin-top: 30px;
+    padding-top: 15px;
 }
 
 .projetos{
@@ -125,6 +124,3 @@ footer{
     text-align: center;
     width: 800px;
 }
-
-
-
